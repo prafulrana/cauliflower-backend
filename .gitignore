@@ -1,1 +1,5 @@
+# Ignore large model files
 *.pt
+
+# Ignore Node.js dependencies
+image-viewer/node_modules/
